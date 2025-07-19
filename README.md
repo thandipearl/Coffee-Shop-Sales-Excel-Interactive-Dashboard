@@ -33,6 +33,7 @@ Executive Summary – Compiled actionable recommendations for operational and ma
 📊 Key Findings
 
 
+
 Peak Sales Hours:
 
 Highest order volume between 8 AM - 10 AM, with a smaller spike between 3 PM - 5 PM.
@@ -65,6 +66,7 @@ Regular (31%) and Large (30%) orders are nearly equally popular, while Small is 
 ✅ Actionable Insights
 
 
+
 Staffing Optimization during 8–10 AM and 3–5 PM to reduce wait times.
 
 Targeted Promotions like Happy Hour or Weekend Warm-up Deals to boost Thursday–Friday sales and improve Saturday traffic.
@@ -77,12 +79,14 @@ Location Strategy – Tailor marketing efforts to Lower Manhattan to address low
 📂 Deliverables
 
 
+
 Interactive Excel Dashboard – Visualizing key metrics like sales trends, footfall, product performance, and store comparisons.
 
 Executive Summary – Document outlining insights and recommendations for better decision-making.
 
 
 🚀 Tools & Skills Used
+
 
 
 Microsoft Excel – Data cleaning, transformation, and dashboard creation
